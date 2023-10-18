@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155648786691",
+    "project_id": "com-firemax-example",
+    "storage_bucket": "com-firemax-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155648786691:android:55b5ef19f0067c1fec6936",
+        "android_client_info": {
+          "package_name": "com.example.firemax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEK3y5NfnlmILD-J4z1jf7s2nmtgzPLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
